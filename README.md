@@ -5,15 +5,24 @@ This repository contains curated resources and programming assignments from the 
 
 ## Programming Assignments
 ### [Course 1: Neural Networks and Deep Learning][C1]
-> The first course in the Deep Learning Specialization focuses on the foundational concepts of neural networks and deep learning. We will learn about the key technology trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to applications.
+> The first course in the Deep Learning Specialization focuses on the foundational concepts of neural networks and deep learning.
+> * We will learn about the key technology trends driving the rise of deep learning:
+>   * build, train, and apply fully connected deep neural networks;
+>   * implement efficient (vectorized) neural networks;
+>   * identify key parameters in a neural network’s architecture;
+>   * apply deep learning to applications.
 
-- [Week 2 - A1: Logistic Regression with a Neural Network mindset][C1W2A1]
-- [Week 3 - A1: Planar data classification with one hidden layer][C1W3A1]
-- [Week 4 - A1: Building your Deep Neural Network: Step by Step][C1W4A1]
-- [Week 4 - A2: Deep Neural Network for Image Classification: Application][C1W4A2]
+  - [Week 2 - A1: Logistic Regression with a Neural Network mindset][C1W2A1]
+  - [Week 3 - A1: Planar data classification with one hidden layer][C1W3A1]
+  - [Week 4 - A1: Building your Deep Neural Network: Step by Step][C1W4A1]
+  - [Week 4 - A2: Deep Neural Network for Image Classification: Application][C1W4A2]
 
 ### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization][C2]
-> The second course in the Deep Learning Specialization focuses on opening the black box of deep learning to understand the processes that drive performance and systematically generate good results. We will learn best practices for training and developing test sets and analyzing bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply various optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop, and Adam, and check for their convergence; and implement a neural network in TensorFlow.
+> The second course in the Deep Learning Specialization focuses on opening the black box of deep learning to understand the processes that drive performance and systematically generate good results.
+> * We will learn best practices for training and developing test sets and analyzing bias/variance for building deep learning applications;
+>   * be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking;
+>   * implement and apply various optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop, and Adam, and check for their convergence;
+>   * implement a neural network in TensorFlow.
 
 - [Week 1 - A1: Initialization][C2W1A1]
 - [Week 1 - A2: Regularization][C2W1A2]
@@ -22,7 +31,12 @@ This repository contains curated resources and programming assignments from the 
 - [Week 3 - A1: TensorFlow Tutorial][C2W3A1]
 
 ### [Course 3: Structuring Machine Learning Projects][C3]
-> The third course in the Deep Learning Specialization focuses on learning how to build a successful machine learning project and practicing decision making as a machine learning project leader. We will learn how to diagnose errors in a machine learning system; prioritize strategies to reduce errors; understand complex ML settings such as mismatched training/test sets and comparing to and/or outperforming human performance; and apply end-to-end learning, transfer learning, and multi-task learning. This is also a standalone course for learners who have basic knowledge of machine learning. This course draws on Andrew Ng's experience building and shipping many deep learning products. If you aspire to become a technical leader who can set the direction for an AI team, this course provides the "industry experience" that you might otherwise only get after years of ML work experience.
+> The third course in the Deep Learning Specialization focuses on learning how to build a successful machine learning project and practicing decision-making as a machine learning project leader.
+> * We will learn how to diagnose errors in a machine learning system; prioritize strategies to reduce errors;
+>   * understand complex ML settings such as mismatched training/test sets and comparing to and/or outperforming human performance;
+>   * apply end-to-end learning, transfer learning, and multi-task learning.
+>     
+> This is also a standalone course for learners who have basic knowledge of machine learning. This course draws on Andrew Ng's experience building and shipping many deep learning products. If you aspire to become a technical leader who can set the direction for an AI team, this course provides the "industry experience" that you might otherwise only get after years of ML work experience.
 
 There are no programming assignments for this course.
 
@@ -30,7 +44,10 @@ There are no programming assignments for this course.
 - Week 2: Machine Learning Strategies 2
 
 ### [Course 4: Convolutional Neural Networks][C4]
-> The fourth course in the Deep Learning Specialization focuses on understanding how computer vision has evolved and becoming familiar with its exciting applications, such as autonomous driving, face recognition, reading radiology images, and more. We will learn how to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
+> The fourth course in the Deep Learning Specialization focuses on understanding how computer vision has evolved and becoming familiar with its exciting applications, such as autonomous driving, face recognition, reading radiology images, and more.
+> * We will learn how to build a convolutional neural network, including recent variations such as residual networks;
+>   * apply convolutional networks to visual detection and recognition tasks;
+>   * use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
 
 - [Week 1 - A1: Convolutional Model: step by step][C4W1A1]
@@ -43,7 +60,11 @@ There are no programming assignments for this course.
 - [Week 4 - A2: Deep Learning & Art: Neural Style Transfer][C4W4A2]
 
 ### [Course 5: Sequence Models][C5]
-> The fifth course in the Deep Learning Specialization focuses on sequence models and their applications in speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. We will learn how to build and train Recurrent Neural Networks (RNNs) and commonly used variants such as GRUs and LSTMs; apply RNNs to character-level language modeling; gain experience with natural language processing and word embeddings; and use HuggingFace tokenizers and transformer models to solve various NLP tasks such as NER and question answering.
+> The fifth course in the Deep Learning Specialization focuses on sequence models and their applications in speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more.
+>   * We will learn how to build and train Recurrent Neural Networks (RNNs) and commonly used variants such as GRUs and LSTMs;
+>   * apply RNNs to character-level language modeling;
+>   * gain experience with natural language processing and word embeddings;
+>   * Use HuggingFace tokenizers and transformer models to solve various NLP tasks such as NER and question answering.
 
 - [Week 1 - A1: Building a Recurrent Neural Network - Step by Step][C5W1A1]
 - [Week 1 - A2: Character-level language model][C5W1A2]
