@@ -88,7 +88,9 @@ There are no programming assignments for this course.
 
 I know some people are struggling to finish the course (including myself) as it takes time to understand new concepts, build intuition, and debug the programming assignment. The uploaded files here are for reference. They are meant to help you only if you are stuck.
 
-If you find this repository helpful, please give a star. Thank you ^_^
+If you find this repository helpful, please give a star ⭐ or fork the repository. 
+
+Thank you and Happy learning! 😊
 
 [C1]: https://github.com/harishmuh/Deep-Learning-Specialization---Andrew-Ng/tree/main/1.%20Neural%20Networks%20and%20Deep%20Learning
 [C2]: https://github.com/harishmuh/Deep-Learning-Specialization---Andrew-Ng/tree/main/2.%20Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%2C%20and%20Optimization
