@@ -79,7 +79,7 @@ There are no programming assignments for this course.
 - [Week 4 - U3: Transformer Network Application: Question Answering][C5W4U3]
 
 
-
+[DL specialization Certificate](https://github.com/harishmuh/Deep-Learning-Specialization---Andrew-Ng/blob/main/certificates/Deep%20Learning%20specialization.pdf)
 
 
 
